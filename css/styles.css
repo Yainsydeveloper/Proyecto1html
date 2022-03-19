@@ -1,0 +1,39 @@
+nav{
+    font-size: 20px;
+    text-align: center;
+    } 
+
+body{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(3, 54, 14);
+    background-color: rgb(18, 238, 190);
+}
+header{ 
+    font-size: 20px;
+    text-align: center;
+    color:rgb(6, 6, 51);
+    }
+
+.texto1{
+    font-size: 20px;
+    text-align: left;
+    color:rgb(6, 6, 51);
+}
+.listado{
+    border-color: black;
+    color: brown;
+}
+
+.tabla{
+    font-size: 25px;
+    color:rgb(6, 6, 51);
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+
+
+
+
